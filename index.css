@@ -85,5 +85,23 @@ p.left {
 	color: #2A3132;
 	transform: translate(-50%, -50%);
 }
+p.mid {
+	position: fixed;
+	left: 50%;
+	top: 750px;
+	font-size: 20px;
+	text-shadow: 0px 0px 10px;
+	color: #2A3132;
+	transform: translate(-50%, -50%);
+}
+p.right {
+	position: fixed;
+	left: 85%;
+	top: 750px;
+	font-size: 20px;
+	text-shadow: 0px 0px 10px;
+	color: #2A3132;
+	transform: translate(-50%, -50%);
+}
 
 
